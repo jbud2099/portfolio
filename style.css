@@ -1,0 +1,91 @@
+#name {
+    font-family: 'Asap', sans-serif;
+    color: rgb(46, 168, 243);
+}
+
+#about {
+    font-family: 'Asap', sans-serif;
+    color: rgb(86, 183, 243);
+}
+
+#projects {
+    font-family: 'Asap', sans-serif;
+    color: rgb(86, 183, 243);
+}
+
+#contact {
+    font-family: 'Asap', sans-serif;
+    color: rgb(86, 183, 243);
+}
+
+.linkedin {
+    height: 30px;
+    width: 30px;
+    float: right;
+}
+
+#icon {
+    padding-right: 10px;
+    width: 40px;
+}
+
+.flexBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#aboutTitle {
+    text-align: center;
+}
+
+.photo{
+    width: 300px;
+    height: 350px;
+    padding-right: 0%;
+    border: lightblue 4px solid;
+    border-radius: 25%;
+}
+
+.col-6 {
+    padding-left: 10%;
+}
+
+#resume {
+    padding-top: 5%;
+}
+
+#projectTitle {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-img-top {
+    width: 25rem;
+    height: 17rem;
+    padding-left: 2%;
+    border-radius: 10px;
+}
+
+#contactMe {
+    padding-top: 5%;
+}
+
+#contactInfo {
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+}
+
+#footerSection {
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+}
+
+.lead {
+    text-align: center;
+}
